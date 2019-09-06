@@ -1,0 +1,2 @@
+# Dwell-Period-implementation-in-One-cycle-LR
+The inspiration for Dwell period implementation is taken from Mechanical Cams. The Idea is to introduce a time period within the Flexible One Cycle LR policy (See the customized one cycle LR repository) where the model 'Dwells' at the Max LR instead of immediate descent generally practiced. The Intuition is that this should facilitate early convergence. 
